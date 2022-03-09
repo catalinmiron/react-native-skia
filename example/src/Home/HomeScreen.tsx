@@ -62,6 +62,11 @@ export const HomeScreen = () => {
         description="Animated with Skia"
         route="Animation"
       />
+      <HomeScreenButton
+        title="👨🏻‍🏫 Tutorial"
+        description="Tutorial"
+        route="Tutorial"
+      />
     </ScrollView>
   );
 };
