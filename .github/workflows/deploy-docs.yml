@@ -1,4 +1,4 @@
-name: Build NPM Package
+name: Deploy docs
 on: workflow_dispatch
 jobs:
   build:
